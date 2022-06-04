@@ -1,6 +1,6 @@
 # C_pra
 practice C-language. 
-These codes are not imitations.
+I take no responsibility if a problem occurs.
 
 # C_pra
 これらのコードは私が授業などで書いたC言語のコードです。
